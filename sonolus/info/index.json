@@ -1,5 +1,10 @@
 {
   "title": "My Sonolus Server",
   "description": "Первый сервер",
-  "version": 1
+  "levels": [],
+  "skins": [],
+  "backgrounds": [],
+  "effects": [],
+  "particles": [],
+  "engines": []
 }
